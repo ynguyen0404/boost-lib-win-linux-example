@@ -1,0 +1,3 @@
+/home/ynguyen/Documents/Boost/ProjectBasic/Timer/build/CMakeFiles/rebuild_cache.dir
+/home/ynguyen/Documents/Boost/ProjectBasic/Timer/build/CMakeFiles/Timer.dir
+/home/ynguyen/Documents/Boost/ProjectBasic/Timer/build/CMakeFiles/edit_cache.dir

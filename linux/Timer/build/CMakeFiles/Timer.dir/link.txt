@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Timer.dir/main.cpp.o -o Timer  -lboost_timer -lboost_system -lboost_chrono 

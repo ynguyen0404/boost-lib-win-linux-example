@@ -1,0 +1,3 @@
+/home/ynguyen/Documents/Boost/ProjectBasic/thread/build/CMakeFiles/rebuild_cache.dir
+/home/ynguyen/Documents/Boost/ProjectBasic/thread/build/CMakeFiles/thread.dir
+/home/ynguyen/Documents/Boost/ProjectBasic/thread/build/CMakeFiles/edit_cache.dir
